@@ -1,0 +1,227 @@
+/*** ========= font family(Pacifice)  ============= ***/
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Righteous&display=swap');
+
+/*** ========= font family(Pacifice)  ============= ***/
+
+
+/* ***Start global style **** */
+
+body {
+    background-color: #F7ECDE !important;
+}
+
+h1 {
+    font-family: "Pacifico", cursive;
+}
+
+h2 {
+    font-family: "Righteous", cursive;
+}
+
+/* ***End global style **** */
+a {
+    text-decoration: none !important;
+    color: #fff !important;
+}
+
+.alert-massage {
+    width: 500px;
+    padding: 20px;
+    border-radius: 7px;
+    background-color: #fff;
+}
+.alert-header  span {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+.layer-massage {
+    background-color: rgba(0, 0, 0, 0.523);
+    width: 100%;
+    min-height: 100vh;
+}
+.massage-body ul li i{
+    color: #c20f24;
+}
+.massage-body ul li p {
+    font-size: 18px;
+}
+ul{
+    list-style: none;
+    padding: 0 !important;
+}
+.btn-colse {
+    border: none;
+    background-color: transparent;
+    font-size: 25px ;
+}
+.main h1 {
+    font-size: 3.125rem;
+    color: #352e28;
+    background-image: linear-gradient(to top, #FEC260 0%, #FEC260 35%);
+    background-size: 100% 40%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    transition: background-size 0.5s ease-in-out; 
+}
+
+.main h1:hover {
+    background-size: 100% 70%; 
+}
+
+.main h2 {
+    font-size: 25px;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.main .userinputs {
+    border-top: 3px dashed black;
+    border-bottom: 3px dashed black;
+}
+
+.main .userinputs {
+    width: 100%;
+}
+
+
+.main .btn-submit {
+    background-color: #D1512D;
+    color: white;
+    height: 40px;
+    width: 150px;
+    border: none;
+    font-size: 17px;
+    transition: all 0.5s;
+}
+
+.main .btn-submit:hover {
+    background-color: #ae3d1e;
+    border-color: transparent;
+}
+.submitButton {
+    border: 1px solid #D1512D !important;
+    background-color: #fff !important;
+    color: #D1512D !important;
+}
+.main input:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #d99c39;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem #fec26055;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #fff;
+    color: #000;
+}
+
+table tr th,
+table tr td{
+    padding: 10px 0;
+}
+
+table button {
+    width: 80px;
+    height: 40px;
+    color: white;
+    border: none;
+}
+
+table .btn-visit {
+    background-color: #8A9E23;
+    transition: all 0.5s;
+}
+.visitButton {
+    border:1px solid #8A9E23 !important;
+    background-color: #fff !important;
+    color: #8A9E23 !important;
+}
+table .btn-delete {
+    background-color: #D30820;
+    transition: all 0.5s;
+}
+
+.delete-Button {
+    border:1px solid #D30820 !important;
+    background-color: #fff !important;
+    color: #D30820 !important;
+}
+table .btn-delete:hover {
+    background-color: #c20f24;
+    border: 1px solid #860c1a;
+}
+
+table .btn-visit:hover {
+    background-color: #7d8f26;
+    border: 1px solid #7A8B27
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
